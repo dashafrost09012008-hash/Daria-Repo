@@ -43,17 +43,17 @@ My current favorite subjects are:
 
 # 🔢 My Favorite Math Formulas  
 
-### ✨ **1. Quadratic Equation**  
+ ✨ 1. Quadratic Equation  
 $$
 x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
-### ✨ **2. Euler’s Formula**  
+ ✨ 2. Euler’s Formula  
 $$
 e^{i\pi} + 1 = 0
 $$
 
-### ✨ **3. Damped Harmonic Oscillation**  
+ ✨ 3. Damped Harmonic Oscillation  
 $$
 x(t) = A e^{-\alpha t} \cos(\beta t + \gamma)
 $$
