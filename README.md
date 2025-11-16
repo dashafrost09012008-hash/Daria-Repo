@@ -1,12 +1,14 @@
 # GitHub-Intro
 # Quick references
-[👩‍🎓 Author](#author) |
-[📜 Description](#description) |
-[📚 My Favorite University Subjects](#my-favorite-university-subjects) |
-[🌍 Online VS Offline Studying](#online-vs-offline-studying) |
-[🔢 My Favorite Math Formulas](#my-favorite-math-formulas) |
-[💻 My coding skills](#my-coding-skills) |
-[🖼️ The image I like](#the-image-i-like)
+
+[👩‍🎓 Author](#-author) |
+[📜 Description](#-description) |
+[📚 My Favorite University Subjects](#-my-favorite-university-subjects) |
+[🌍 Online VS Offline Studying](#-online-vs-offline-studying) |
+[🔢 My Favorite Math Formulas](#-my-favorite-math-formulas) |
+[💻 My coding skills](#-my-coding-skills) |
+[🖼️ The image I like](#-3-the-image-i-like)
+
 
 
 
